@@ -1,0 +1,16 @@
+.content{
+    padding-right: 20px;
+}
+h1{
+    font-family: "Arial Black";
+    font-size: 50px;
+}
+a{
+    font-size: 20px;
+}
+a:hover{
+    color: red;
+}
+body{
+    text-align: center;
+}
